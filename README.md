@@ -1,2 +1,3 @@
-# Java-Socket-Programming
-Java-based client-server app for CEG3585 Lab 3. The PacketSender encodes and sends an IPv4-like packet using sockets, and the PacketReceiver receives and validates it using checksum. Demonstrates basic socket programming and packet structure in Java.
+### 📦 Java Socket Programming - IPv4 Packet Sender & Receiver
+
+This project implements a simple client-server communication model using Java sockets, designed for Lab 3 of the CEG3585 course at uOttawa. The `PacketSender` (client) encodes and sends a simulated IPv4 datagram, while the `PacketReceiver` (server) decodes and verifies the packet's integrity using checksum validation. This exercise demonstrates fundamental socket programming and low-level networking concepts.
